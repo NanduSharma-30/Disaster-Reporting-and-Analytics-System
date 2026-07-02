@@ -52,6 +52,12 @@ Disaster-Reporting-and-Analytics-System
 └── LICENSE
 ```
 
+## 🗺️ Entity Relationship Diagram
+
+The database schema used in this project.
+
+![ER Diagram](Disaster_ER_Diagram.png)
+
 ---
 
 ## 📊 Database Modules
