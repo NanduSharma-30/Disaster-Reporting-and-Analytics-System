@@ -63,7 +63,7 @@ The database schema used in this project.
 ## 📸 Project Screenshots
 
 ### Executive Dashboard
-![Executive Dashboard](Executive_Dashboard/Executive_Dashboard_1.png)
+![Executive Dashboard](Executive_Dashboard/[Executive_Dashboard_1.png](https://github.com/NanduSharma-30/Disaster-Reporting-and-Analytics-System/blob/main/Executive_Dashboard/Executive_Dashboard.png))
 
 ---
 
