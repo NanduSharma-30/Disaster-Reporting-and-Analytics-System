@@ -60,6 +60,59 @@ The database schema used in this project.
 
 ---
 
+## 📸 Project Screenshots
+
+### Executive Dashboard
+![Executive Dashboard](Executive_Dashboard/Executive_Dashboard_1.png)
+
+---
+
+### Disaster Analysis
+![Disaster Analysis](Disaster_Analysis/Disaster_Analysis_1.png)
+
+---
+
+### Hospital Analysis
+![Hospital Analysis](Hospital_Analysis/Hospital_Analysis.png)
+
+---
+
+### Shelter Analysis
+![Shelter Analysis](Shelter_Analysis/Shelter_Analysis.png)
+
+---
+
+### Rescue Team Analysis
+![Rescue Team Analysis](Rescue_Team_Analysis/Rescue_Team_Analysis.png)
+
+---
+
+### Victim Analysis
+![Victim Analysis](Victim_Analysis/Victim_Analysis.png)
+
+---
+
+### Donation Analysis
+![Donation Analysis](Donation_Analysis/Donation_Analysis.png)
+
+---
+
+### Operational Insights
+![Operational Insights](Operational_Insights/Operational_Insights.png)
+
+---
+
+### Strategic Insights
+![Strategic Insights](Strategic_Insights/Strategic_Insights.png)
+
+---
+
+### Advanced SQL
+![Advanced SQL 1](Advanced_SQL/Advanced_SQL_1.png)
+
+![Advanced SQL 2](Advanced_SQL/Advanced_SQL_2.png)
+
+
 ## 📊 Database Modules
 
 The project is divided into multiple SQL analysis modules:
