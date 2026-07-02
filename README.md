@@ -1,6 +1,6 @@
 # 🌍 Disaster Reporting and Analytics System using MySQL
 
-## 📌 Project Overview
+## 🎯 Project Objectives
 
 The Disaster Reporting and Analytics System is an end-to-end SQL project developed using MySQL to analyze disaster-related data and generate meaningful business insights.
 
