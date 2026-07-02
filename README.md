@@ -1,5 +1,7 @@
 # 🌍 Disaster Reporting and Analytics System using MySQL
 
+SQL | MySQL | Data Analysis | Portfolio Project
+
 ## 📌 Project Overview
 
 The Disaster Reporting and Analytics System is an end-to-end SQL project developed using MySQL to analyze disaster-related data and generate meaningful business insights.
@@ -69,6 +71,16 @@ The project is divided into multiple SQL analysis modules:
 
 ---
 
+## ✨ Project Features
+
+- End-to-end SQL analytics project
+- Real-world disaster management database
+- Business-driven SQL analysis
+- Operational and strategic reporting
+- KPI generation using SQL
+- Advanced SQL using CTEs and Window Functions
+- Portfolio-ready project for Data Analyst roles
+
 ## 🧠 SQL Concepts Covered
 
 This project demonstrates the following SQL concepts:
@@ -125,3 +137,10 @@ This project answers business questions such as:
 **Nandu Sharma SB**
 
 GitHub: https://github.com/NanduSharma-30
+
+## 🚀 Future Enhancements
+
+- Develop an interactive Power BI dashboard.
+- Integrate Python for advanced analytics.
+- Automate report generation.
+- Deploy the database on a cloud platform.
